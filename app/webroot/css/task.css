@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+/*forms*/
+.taskForm label	{color:#D8D4D4;}
+#weeklyRadio	{display:none;}
+
+
+
+/*basic layout*/
+html {
+    background-image: url("../img/ChalkboardPurple.jpg");
+    background-size: 100%;
+}
+
+body	{padding: 30px;}
+
+p	{color:#D8D4D4;}
+
+/*wood border*/
+#top, #bottom, #left, #right {
+	background-image: url("../img/wood.jpg");
+	background-repeat: repeat;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 30px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 30px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }

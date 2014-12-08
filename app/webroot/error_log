@@ -1,0 +1,68 @@
+[22-Sep-2014 10:01:18 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/tamani/public_html/cake/app/Controller/TestsController.php on line 5
+[25-Sep-2014 12:57:37 America/Chicago] PHP Parse error:  syntax error, unexpected ''last'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/cake/app/Model/User.php on line 64
+[25-Sep-2014 12:57:45 America/Chicago] PHP Parse error:  syntax error, unexpected ''last'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/cake/app/Model/User.php on line 64
+[25-Sep-2014 12:59:28 America/Chicago] PHP Parse error:  syntax error, unexpected ''last'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/cake/app/Model/User.php on line 64
+[25-Sep-2014 13:00:18 America/Chicago] PHP Parse error:  syntax error, unexpected ''allowEmpty'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/cake/app/Model/User.php on line 68
+[25-Sep-2014 19:23:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''alphaNumericDashUnderscore'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/test/app/Model/User.php on line 60
+[25-Sep-2014 19:24:17 America/Chicago] PHP Parse error:  syntax error, unexpected ''alphaNumericDashUnderscore'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/test/app/Model/User.php on line 72
+[25-Sep-2014 19:30:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 9
+[08-Oct-2014 17:34:24 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home2/tamani/public_html/test/app/webroot/index.php on line 2
+[08-Oct-2014 17:36:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home2/tamani/public_html/test/app/webroot/index.php on line 2
+[08-Oct-2014 17:36:40 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home2/tamani/public_html/test/app/webroot/index.php on line 2
+[08-Oct-2014 17:36:41 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home2/tamani/public_html/test/app/webroot/index.php on line 2
+[11-Oct-2014 12:34:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Users/login.ctp on line 4
+[11-Oct-2014 16:32:05 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home2/tamani/public_html/test/app/Controller/UsersController.php on line 46
+[12-Oct-2014 12:52:36 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home2/tamani/public_html/test/app/Controller/UsersController.php on line 46
+[12-Oct-2014 12:55:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/tamani/public_html/test/app/Controller/UsersController.php on line 4
+[12-Oct-2014 12:56:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/tamani/public_html/test/app/Model/Task.php on line 30
+[12-Oct-2014 20:40:45 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Users/add.ctp on line 2
+[13-Oct-2014 18:01:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 2
+[13-Oct-2014 18:02:20 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 8
+[13-Oct-2014 18:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 9
+[16-Oct-2014 13:52:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 18
+[16-Oct-2014 13:54:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$attributes' (T_VARIABLE) in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 18
+[16-Oct-2014 13:54:32 America/Chicago] PHP Parse error:  syntax error, unexpected ''month_type'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/test/app/Model/Task.php on line 29
+[16-Oct-2014 13:55:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 23
+[18-Oct-2014 12:13:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 2
+[18-Oct-2014 12:37:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'task_name' (T_STRING), expecting ')' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 8
+[21-Oct-2014 11:36:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Users/add.ctp on line 2
+[21-Oct-2014 11:49:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/tamani/public_html/test/app/Model/Task.php on line 47
+[21-Oct-2014 22:57:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 8
+[22-Oct-2014 10:10:52 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 2
+[22-Oct-2014 17:09:45 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 60
+[25-Oct-2014 19:59:21 America/Chicago] PHP Fatal error:  Call to undefined method View::Elements() in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 13
+[25-Oct-2014 22:38:08 America/Chicago] PHP Fatal error:  Call to undefined function daysInMonth() in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 9
+[25-Oct-2014 22:39:26 America/Chicago] PHP Fatal error:  Call to undefined function daysInMonth() in /home2/tamani/public_html/test/app/Controller/UsersController.php on line 48
+[25-Oct-2014 23:26:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'Task' (T_STRING), expecting ']' in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 19
+[25-Oct-2014 23:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 33
+[02-Nov-2014 14:02:44 America/Chicago] PHP Fatal error:  Cannot redeclare Complete::$belongsTo in /home2/tamani/public_html/test/app/Model/Complete.php on line 7
+[02-Nov-2014 18:02:48 America/Chicago] PHP Fatal error:  Call to undefined method View::redirect() in /home2/tamani/public_html/test/app/View/Completes/index.ctp on line 2
+[02-Nov-2014 18:03:53 America/Chicago] PHP Fatal error:  Call to undefined method View::redirect() in /home2/tamani/public_html/test/app/View/Completes/index.ctp on line 2
+[02-Nov-2014 19:01:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 87
+[08-Nov-2014 10:09:42 America/Chicago] PHP Fatal error:  Cannot redeclare User::$hasMany in /home2/tamani/public_html/test/app/Model/User.php on line 8
+[08-Nov-2014 12:03:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING), expecting '(' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 78
+[08-Nov-2014 12:08:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 96
+[08-Nov-2014 12:19:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 91
+[08-Nov-2014 13:02:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 57
+[08-Nov-2014 13:23:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'Edit' (T_STRING), expecting ']' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 93
+[09-Nov-2014 20:10:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'smallHeader' (T_STRING), expecting ',' or ';' in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 95
+[09-Nov-2014 21:35:40 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 104
+[15-Nov-2014 13:13:51 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Calendars/add.ctp on line 17
+[15-Nov-2014 13:18:26 America/Chicago] PHP Fatal error:  Call to undefined function weekNumber() in /home2/tamani/public_html/test/app/Controller/CalendarsController.php on line 37
+[28-Nov-2014 20:07:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/tamani/public_html/test/app/Controller/TasksController.php on line 5
+[05-Dec-2014 18:59:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home2/tamani/public_html/test/app/View/Tasks/edit.ctp on line 103
+[05-Dec-2014 18:59:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/tamani/public_html/test/app/View/Tasks/edit.ctp on line 104
+[07-Dec-2014 14:46:45 America/Chicago] PHP Fatal error:  Call to a member function exists() on a non-object in /home2/tamani/public_html/test/app/Controller/TasksController.php on line 87
+[07-Dec-2014 14:49:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/Controller/TasksController.php on line 91
+[07-Dec-2014 16:23:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'Daily' (T_STRING), expecting ')' in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 14
+[07-Dec-2014 17:50:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home2/tamani/public_html/test/app/View/Users/login.ctp on line 10
+[07-Dec-2014 20:02:25 America/Chicago] PHP Fatal error:  Call to undefined method View::referer() in /home2/tamani/public_html/test/app/View/Tasks/edit.ctp on line 11
+[07-Dec-2014 20:02:30 America/Chicago] PHP Fatal error:  Call to undefined method View::referer() in /home2/tamani/public_html/test/app/View/Tasks/edit.ctp on line 11
+[07-Dec-2014 20:05:11 America/Chicago] PHP Fatal error:  Call to undefined method View::referer() in /home2/tamani/public_html/test/app/View/Users/index.ctp on line 73
+[07-Dec-2014 20:47:53 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/tamani/public_html/test/app/View/Calendars/add.ctp on line 30
+[07-Dec-2014 20:59:56 America/Chicago] PHP Parse error:  syntax error, unexpected ''empty'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/tamani/public_html/test/app/View/Calendars/add.ctp on line 42
+[07-Dec-2014 21:43:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/tamani/public_html/test/app/View/Tasks/add.ctp on line 75
+[07-Dec-2014 21:52:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 47
+[07-Dec-2014 21:53:06 America/Chicago] PHP Fatal error:  Call to undefined function hideUnscheduled() in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 46
+[07-Dec-2014 21:59:15 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home2/tamani/public_html/test/app/View/Tasks/index.ctp on line 31
+[07-Dec-2014 22:22:49 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home2/tamani/public_html/test/app/Controller/UsersController.php on line 121

@@ -1,0 +1,231 @@
+@charset "utf-8";
+
+
+/*user views*/
+
+.links	{text-align:center}
+.links a:link	{text-decoration:none}
+.links a:visited	{text-decoration:none}
+.links a:hover	{text-decoration:none}
+.links a:active	{text-decoration:none}
+
+	
+
+
+.eventForm	{font-family:'Coming Soon';color:#D8D4D4}	
+.eventForm input	{margin:10px}
+.eventForm label	{margin:10px}
+
+#taskList 	{width:50%;float:left;text-align:center}
+#calendarList	{width:50%;float:right;text-align:center}
+
+.usersForm {text-align:center;margin: 0 auto;width: 30%}
+.usersForm fieldset	{margin-bottom:10px;padding:30px}
+.usersForm legend	{text-align:center;font-family:'Arial';color:#D8D4D4;font-size:large;font-weight:bold;}
+.usersForm label {
+  	float:left;
+  	text-align:center;
+  	font-family:'Arial';
+  	color:#D8D4D4;
+  	}
+  	
+.bigHeader	{
+	font-family: 'Coming Soon';
+	color:#D8D4D4;
+	text-align:center;
+	font-variant:small-caps;
+	font-size:3em;
+}
+
+tr.smallHeader td	{
+	font-family:'Coming Soon';
+	color:#D8D4D4;
+	text-align:center;
+	font-variant:small-caps;
+	font-size:2em;
+}
+
+.welcomeText	{
+	font-family: 'Coming Soon';
+	color:#D8D4D4;
+	text-align:center;
+	font-size:2em;
+	font-variant:small-caps; }
+	
+.usersForm a:link, a:visited	{color:#D8D4D4;}
+.accountLinks	{font-size:inherit}
+
+
+/*task views*/
+
+.taskForm fieldset {text-align:center;margin: 0 auto;width:50%}
+.taskForm input		{text-align:left;}
+.taskForm label	{color:#D8D4D4;font-family:'Coming Soon';padding:10px;}
+/*#weeklyRadio	{display:none;}*/
+/*#monthlyRadio	{display:none;}*/
+
+#tasksDaily	{ float: left; width: 33%;}
+#tasksMonthly	{ float: right; width: 33%; }
+#tasksWeekly{ display: inline-block; width: 33%; }
+#taskTypes li	{text-align:left}
+
+.dayLabel 	{font-variant:small-caps;font-size:1.5em}
+
+
+#taskViews	{text-align:center}
+
+/*all views*/
+
+html {
+    background-image: url("../img/Chalk Board.jpg");
+    background-size: 100% 100%;
+    min-width:800px;
+    min-height:800px;
+    
+}
+
+body	{padding: 30px;}
+
+p	{color:#D8D4D4;font-family:'Coming Soon';}
+
+	
+.taskList	{
+	font-family: 'Coming Soon';
+	color:#D8D4D4;
+	text-align:center;
+	font-size:1.5 em;
+	list-style-type:none;
+	}
+	
+.eventList	{
+	font-family: 'Coming Soon';
+	color:#D8D4D4;
+	text-align:center;
+	font-size:1.5 em;
+	list-style-type:none;
+	}
+.eventList td	{padding:10px}
+	
+
+
+.smallHeader	{font-size:60}
+  	
+.centered	{text-align:center;}
+	
+.genericLink a:link {text-decoration:none;color:#D8D4D4;}
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+.formSubmit {
+   margin-top:10px;
+   border-top: 1px solid #f797af;
+   background: #9480ed;
+   background: -webkit-gradient(linear, left top, left bottom, from(#9c3e53), to(#9480ed));
+   background: -webkit-linear-gradient(top, #9c3e53, #9480ed);
+   background: -moz-linear-gradient(top, #9c3e53, #9480ed);
+   background: -ms-linear-gradient(top, #9c3e53, #9480ed);
+   background: -o-linear-gradient(top, #9c3e53, #9480ed);
+   padding: 4px 14px;
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #d9ccd9;
+   font-size: 15px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   
+   }
+.formSubmit:hover {
+   border-top-color: #7a5bde;
+   background: #7a5bde;
+   color: #ccb7cc;
+   }
+.formSubmit:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+   
+.viewButton {
+   margin-top:0px;
+   border-top: 1px solid #f797af;
+   background: #9480ed;
+   background: -webkit-gradient(linear, left top, left bottom, from(#9c3e53), to(#9480ed));
+   background: -webkit-linear-gradient(top, #963413, #744f42);
+   background: -moz-linear-gradient(top, #963413, #744f42);
+   background: -ms-linear-gradient(top, #963413, #744f42);
+   background: -o-linear-gradient(top, #963413, #744f42);
+   padding: 4px 18px;
+   width: 150px;
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 2px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #d9ccd9;
+   font-size: 15px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   
+   }
+.viewButton:hover {
+   border-top-color: #332c29;
+   background: #332c29;
+   color: #ccb7cc;
+   }
+.viewButton:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+
+
+#sidebar	{width:15%;float:left;}
+#sidebar img	{width:80%;margin-left:20px}
+#pageContent	{width:85%;float:right;}
+
+#addButton	{width:30px}
+
+.checkButton	{width:30px}
+#editButton	{width:15px}
+.deleteButton	{width:15px}
+
+#accountLinks 	{text-align:center}
+
+#recurringDiv	{display:none}
+
+
+#top, #bottom, #left, #right {
+	background-image: url("../img/wood.jpg");
+	background-repeat: repeat;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 30px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 30px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
